@@ -1,6 +1,7 @@
-[gd_scene load_steps=5 format=3 uid="uid://dgybkxqlpd08w"]
+[gd_scene load_steps=6 format=3 uid="uid://dgybkxqlpd08w"]
 
 [ext_resource type="Texture2D" uid="uid://dvt760h48tua5" path="res://sprites/tileSet.png" id="1_ig7tw"]
+[ext_resource type="Script" uid="uid://cplg5cd7ain5e" path="res://scripts/main.gd" id="1_sugp2"]
 [ext_resource type="PackedScene" uid="uid://b2nmcuevsfpik" path="res://scenes/jogador.tscn" id="2_0xm2m"]
 
 [sub_resource type="TileSetAtlasSource" id="TileSetAtlasSource_0xm2m"]
@@ -74,6 +75,7 @@ texture = ExtResource("1_ig7tw")
 sources/0 = SubResource("TileSetAtlasSource_0xm2m")
 
 [node name="Main" type="Node2D"]
+script = ExtResource("1_sugp2")
 
 [node name="TileMap" type="TileMap" parent="."]
 tile_set = SubResource("TileSet_h2yge")
