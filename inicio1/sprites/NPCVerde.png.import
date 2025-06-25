@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c3ytclafnvlpb"
-path="res://.godot/imported/NPCVerde.png-d91a19ccc5abe59945438f37d15eb5db.ctex"
+path="res://.godot/imported/NPCVerde.png-6c8a383d475b2f57f3374e62a15683de.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://NPCVerde.png"
-dest_files=["res://.godot/imported/NPCVerde.png-d91a19ccc5abe59945438f37d15eb5db.ctex"]
+source_file="res://sprites/NPCVerde.png"
+dest_files=["res://.godot/imported/NPCVerde.png-6c8a383d475b2f57f3374e62a15683de.ctex"]
 
 [params]
 

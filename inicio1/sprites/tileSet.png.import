@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://u4jbpgk8diog"
-path="res://.godot/imported/NPCAmarelo.png-e9f685d86d3184a6ed9cf744b79246e8.ctex"
+uid="uid://dvt760h48tua5"
+path="res://.godot/imported/tileSet.png-6a4a8e6020ae53040b00996656a31ab7.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://NPCAmarelo.png"
-dest_files=["res://.godot/imported/NPCAmarelo.png-e9f685d86d3184a6ed9cf744b79246e8.ctex"]
+source_file="res://sprites/tileSet.png"
+dest_files=["res://.godot/imported/tileSet.png-6a4a8e6020ae53040b00996656a31ab7.ctex"]
 
 [params]
 

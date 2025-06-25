@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://cyjrq7vohb5rb"
-path="res://.godot/imported/NPCAzul.png-f960206633c1ce85b923259c6af2edd0.ctex"
+uid="uid://u4jbpgk8diog"
+path="res://.godot/imported/NPCAmarelo.png-4c3e2a095141ace9981cb28a6e9912a7.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://NPCAzul.png"
-dest_files=["res://.godot/imported/NPCAzul.png-f960206633c1ce85b923259c6af2edd0.ctex"]
+source_file="res://sprites/NPCAmarelo.png"
+dest_files=["res://.godot/imported/NPCAmarelo.png-4c3e2a095141ace9981cb28a6e9912a7.ctex"]
 
 [params]
 
